@@ -22,3 +22,11 @@ Step 2: Server Hello
 - Server might indicate it wants the client to send its own certificate too
 
 Step 3: Client verifies server SSL certificate
+
+
+
+AAA
+
+Authentication - Authenticate the user's account info (User/Password)
+Authorization - Give the user the right access they need, and deny them if they don't
+Accounting - Audit/Account for changes the user makes in the system
