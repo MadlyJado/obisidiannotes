@@ -28,5 +28,10 @@ Step 3: Client verifies server SSL certificate
 AAA
 
 Authentication - Authenticate the user's account info (User/Password)
+
+	Something you know
+	Something you have
+	Something you are
+
 Authorization - Give the user the right access they need, and deny them if they don't
 Accounting - Audit/Account for changes the user makes in the system
