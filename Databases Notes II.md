@@ -1,0 +1,8 @@
+- The extended entity relationship model (EER) model adds semantics to the ER model via entity supertypes, subtypes, and clusters
+- An entity cluster hierarchy depicts the arrangement and relationships between entity supertypes and entity subtypes
+- An entity is a "virtual" entity type used to represent multiple entities and relationships in the ERD
+- Natural keys are identifiers that exist in the real world
+- Composite keys are useful to represent M:N relationships and weak (strong identifying) entities.
+- Surrogate primary keys are useful when there is no natural key that makes a suitable primary key, when the primary key is a composite primary key with multiple data types, or when the primary key is too long to be usable
+- Time-variant data refers to data whose values change over time and requires that you keep a history of data changes
+- A fan trap occurs when you have one entity in two 1:M relationships to other entities, and there is an association among the other entities not expressed in the model.
