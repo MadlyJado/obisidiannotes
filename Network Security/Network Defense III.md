@@ -13,3 +13,6 @@
 			- The Native VLAN is where all untagged packets end up
 		- Dynamic Ports
 			- A port that can switch between being an access port and a trunk port depending on if a VLAN tag in a packet is sent through the port
+
+
+STP (Spanning Tree Protocol)
