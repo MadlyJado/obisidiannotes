@@ -90,9 +90,21 @@
               "icon": "lucide-file",
               "title": "Databases Notes III"
             }
+          },
+          {
+            "id": "5404630ce0d9ae4f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -251,7 +263,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d1327ded0a9bb066",
+  "active": "5404630ce0d9ae4f",
   "lastOpenFiles": [
     "Pasted image 20251008112800.png",
     "Pasted image 20251008112749.png",
