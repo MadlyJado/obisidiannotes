@@ -29,3 +29,11 @@
 - Application Inspection
 - Transparent Firewalls
 - Next-Generation Firewalls
+
+
+## Using Network Address Translation
+
+- NAT is about Hiding or Changing the Truth About Source Addresses
+- Inside, Outside, Local, Global
+- Port Address Translation
+
