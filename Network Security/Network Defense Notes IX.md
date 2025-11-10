@@ -20,5 +20,5 @@ STUN servers help find out which NAT the client has by communicating with with t
 
 ## Port-Forwarding
 
-- Port-forwarding is when you allow your Public IP (Most likely on your home router's firewall), to communicate with a server inside your home network using the public ip and telling the router based on this ip (Minecraft is 25565), you connect to that server through that.
+- Port-forwarding is when you allow your Public IP (Most likely on your home router's firewall), to communicate with a server inside your home network using the public IP and telling the router based on this IP (Minecraft is 25565), you connect to that server through that.
 
